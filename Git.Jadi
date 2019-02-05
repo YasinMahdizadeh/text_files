@@ -5,9 +5,31 @@ Git is the best of vcs!
 
 ____________________________________
 
-It's important wich directory you run git on.
-When we want to start working with git on a new directory, First command is:
+    It's important wich directory you run git on.
+    When we want to start working with git on a new directory, First command is:
 -> git init
 
-*** -> ls lthra
+*** ls lthra
     Shows hidden files in a directory.
+    
+------------------------------------
+
+-> Git Status
+    Is very important and useful command.
+    
+------------------------------------
+
+We bring files to stage, and then commit them to change them.
+
+*** touch
+    it makes file (in bash)
+    
+------------------------------------
+
+-> git add
+    Send our files to stage.
+
+-> git commit -m ''
+    with -m we can add comment on our code.
+    
+-----------------------------------
