@@ -1,0 +1,13 @@
+
+git is a distributed version control system (VCS)
+Can be used for articles, "paayaan Nameh" and ...
+Git is the best of vcs!
+
+____________________________________
+
+It's important wich directory you run git on.
+When we want to start working with git on a new directory, First command is:
+-> git init
+
+*** -> ls lthra
+    Shows hidden files in a directory.
