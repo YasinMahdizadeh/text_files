@@ -33,3 +33,6 @@ We bring files to stage, and then commit them to change them.
     with -m we can add comment on our code.
     
 -----------------------------------
+
+we use git remote add origin to add github repository Address.
+then we use git push -u origin master to push our changes to the github.
