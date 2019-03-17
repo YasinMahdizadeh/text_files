@@ -1,0 +1,44 @@
+We can add or remove panels, by window menu.
+
+--- Crtl+N --> new file
+in new panel, typing new values is not neccasuary. we can drag text beside the field to change value.
+*** lab color: it only uses in photoshop.
+*** RGB 8bit means it have 2^8 colors in tonalite, from up to bottom or from right to left.
+*** bitmap has 1 bit.
+*** we can set background content.
+*** uper panel shows each tool settings.
+--- V --> Move tool
+*** changing pattern scales give us different patterns with different sizes.
+*** Fill and Stroke
+*** we can drag stroke word to change it's value (like what we've done in new panel)
+*** we can also change stroke linetype.
+*** we can change unit by right click on a panel.
+--- Ctrl + --> zoom in
+--- Ctrl - --> zoom out
+--- alt + mouse scroll --> zoom in and zoom out
+--- holding alt while holding snaps and changing picture size, makes changes from middle of the element.
+--- middle poing can be changed! we can drag and drop it.
+--- in new menu, automate option used for changing lots of pictures.
+________
+
+--- while activing move tool, by ticking auto-select, when we click on an element it selects it's layer.
+    this feature can be set for chosing layer or chosing group. (beside the auto-select option.)
+    holding crtl while clicking on an object, works like when auto-select is been actived.
+_________
+
+--- photoshop is one of the best softwares that have non-destructive option.
+--- non-destructive and working with order - it's two great photoshop features.
+
+*** Draging a layer into new layer, makes a copy from it.
+
+*** Rasterizing a layer.
+*** non-rasterized layers known by a little icon on right-bottom of the layer.
+    make a backup before rasterizing!!
+*** one of these icons mean that photoshop knows layer from its origin.
+    what's it's benefit?
+    after resizing, it's quality doesn't change. but if we rasterize the photo, after descending and decreasing 
+    it's size, it's quality will Be a lot lower :(
+
+--- Ctrl z in photoshop only remembers one last action.
+--- Ctrl + Alt + z : undos more than one action.
+--- Ctrl + Shift + z : redos more than one action.
