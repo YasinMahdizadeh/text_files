@@ -1,0 +1,1 @@
+*** In layer,  layer options, blending we can select a single channel for layers.

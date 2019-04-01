@@ -42,3 +42,16 @@ _________
 --- Ctrl z in photoshop only remembers one last action.
 --- Ctrl + Alt + z : undos more than one action.
 --- Ctrl + Shift + z : redos more than one action.
+
+*** Polygon, we can select unformal shapes by using this.
+--- Double click while using polygon, closes it.
+
+*** Lesso tool: Free hand selecting
+*** in the select menu, we have color range and we can select by giving a color to it.
+*** color range selecting don't work 0 and 1. it selects some pixels more, and some less (?)
+*** select --> focus area
+--- ctrl + T : Free transform
+*** edit -- prespective warp
+--- crtl + shift+ T : redos Free Transform action
+
+QQQ Ctrl + Shift + T and layers.
