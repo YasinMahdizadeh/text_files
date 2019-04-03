@@ -1,0 +1,29 @@
+--- Shift + holding Scroll --> Pan
+--- Ctrl + holding Scroll --> Also Zoom
+--- G --> Move
+--- R --> Rotate with vision axis
+--- Rx2 --> Free Rotate
+--- S --> Scale
+--- M --> move to layer
+--- N --> Navigation bar
+--- Ctrl + Tab --> vertex, edge or face?
+*** in edit mode, press e to create mesh.
+--- Ctrl + Shift + Z --> Redos.
+--- Ctrl + Holding left mouse --> Selects.
+--- A --> Deselects. 
+*** Press A again and it selects all things together.
+*** Ctrl + R is a good thing :))
+--- Hold alt and select and edge, to select all the square.
+*** Ctrl + Right click is one of the selection types. ctrl + left click is another one.
+--- B --> Selection with a rectangle
+--- alt + shift + right click --> add another edge
+--- holding shift and x when scaling, scales models only in y and z axises.
+--- numpad 5 -- Switches between prespective and isometric
+--- Shift + A --> Creation menu
+--- Alt + C --> converts curve to mesh
+--- G is a important key :?  %%% G + Z
+*** Proportional editing, it's near vertex, edge and face in bottom menu and allows us to effect our changes in other
+objects in a specified distance. distance changes by mouse scroll.
+*** Shift + S , second option --> it changes console location to 0,0,0
+--- Ctrl + J --> Attaches some objects together
+--- Shift + D --> Copies object.
