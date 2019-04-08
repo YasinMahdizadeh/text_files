@@ -67,7 +67,7 @@ _________________4____________________________________
 --- git diff HEAD
     What's difference between HEAD and the present files?
 
-*** HEAD is the last change we've commited.
+*** HEAD is the last change we've commited. (and it can be changed!)
     
 --- git diff --staged
     What's changed in my stage files?
@@ -77,3 +77,30 @@ _________________4____________________________________
     
 --- git checkout -- filename:
     returns a staged file to last commit.
+
+_________________5____________________________________
+
+branching is one of (the most?) powerful git ability. it allows us to
+divide work to some sections or working on a single project by other members.
+
+--- git branch
+    tells us what branch we are in
+    
+--- git branch branchname
+    creates a new branch.
+    
+--- git checkout branchname
+    swithces to another branch.
+    
+--- git reset filename
+    exits filename after commit to untracked mode.
+    
+*** Seperate commits, and make a single change in each one.
+*** commit a lot!
+
+*** ohmyzsh : a bash plugin for using git
+
+--- git merge branchname
+
+_________________6____________________________________
+
