@@ -75,5 +75,5 @@ _________________4____________________________________
 --- git reset page3.html
     unstages page3.html and it won't be commited.
     
---- git checkout:
-    returns a file to last commit.
+--- git checkout -- filename:
+    returns a staged file to last commit.
