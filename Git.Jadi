@@ -59,3 +59,21 @@ ________________3______________________________________
 
 _________________4____________________________________
 
+>>> diff
+    is a unix-based command that shows difference between two files.
+    
+*** Search how to read diff
+
+--- git diff HEAD
+    What's difference between HEAD and the present files?
+
+*** HEAD is the last change we've commited.
+    
+--- git diff --staged
+    What's changed in my stage files?
+    
+--- git reset page3.html
+    unstages page3.html and it won't be commited.
+    
+--- git checkout:
+    returns a file to last commit.
