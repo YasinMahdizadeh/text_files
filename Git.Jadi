@@ -104,3 +104,8 @@ divide work to some sections or working on a single project by other members.
 
 _________________6____________________________________
 
+--- git checkout -d branchname
+    deletes branch.
+
+*** after compeleting our work, delete branches.
+
