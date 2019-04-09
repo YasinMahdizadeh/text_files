@@ -129,3 +129,18 @@ after cloning, git set our clone address as origin.
 *** if add a -u on pull or push, it will not be neccesary to say origin master
  each time.
 
+_________________8____________________________________
+
+/// -v gives us more information
+
+--- git remote add origin https://folanfolanfolan
+add a remote, named origin by address https://...
+
+*** we can have multiple remotes for a local git, 
+for example we can push our project to github and 
+gitlab.
+
+*** between HEAD >>>>>> and ======= is what you've done, and between ======= and <<<<<<< is origin's content.       
+and after all it shows commit hash. you should solve conflict and then countinue working.
+
+
