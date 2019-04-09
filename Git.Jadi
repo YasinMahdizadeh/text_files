@@ -109,3 +109,23 @@ _________________6____________________________________
 
 *** after compeleting our work, delete branches.
 
+_________________7____________________________________
+
+*** by adding remote, we can push or pull our code from a website, or a directo$
+or even our company git site.
+
+/// cd .. : one directory upper.
+
+*** after commiting on a cloned git, it says on git status:
+your branch is ahead of 'origin/master' by one commit.
+
+*** when we code on our own and without cloning, we worked on master branch.
+after cloning, git set our clone address as origin.
+
+*** and we command: git push origin master - push our master branch on origin.
+
+--- git pull origin master
+
+*** if add a -u on pull or push, it will not be neccesary to say origin master
+ each time.
+
