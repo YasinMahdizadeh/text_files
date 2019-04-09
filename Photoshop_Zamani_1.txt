@@ -1,6 +1,6 @@
 We can add or remove panels, by window menu.
 
---- Crtl+N --> new file
+- - - Crtl+N --> new file
 in new panel, typing new values is not neccasuary. we can drag text beside the field to change value.
 *** lab color: it only uses in photoshop.
 *** RGB 8bit means it have 2^8 colors in tonalite, from up to bottom or from right to left.
