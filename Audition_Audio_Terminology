@@ -1,0 +1,12 @@
+/// Men can hear frequencies between 20Hz and 20KHz.
+/// amplitude is expressed by DB - desi bels.
+/// when we record sound digitaly, we can't record every single moment.
+the sample rate represented by Hz, and tells us.
+/// if we want to record higher frequencies, we need higher sample rates.
+/// your sample rate should be above 2 times higher than the biggest frequency you wanna record. 
+sample rate is actually our snapshots of voice.
+and this is why we often use 44KHz as lower sample rate, (because the highest frequency we can normally hear is 20KHz.)
+some audio engineers set 96000Hz sample rate for incredibly high quality. (and it makes our file larger!)
+/// more bit depth allows us to record more amplitude in our sounds. (and also makes larger file.)
+/// it's recommended to set bit depth highest bit depth. we can low it if we want, but we keep 
+high bit depth sound as our master work.
