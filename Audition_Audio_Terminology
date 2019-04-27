@@ -1,3 +1,10 @@
+/// Multitrack editor is non-destructive.
+/// K:Stop. J:Play backward. L:Play Forward.
+/// double click on l or j to speed up.
+
+/// key below esc key, makes a panel full screen.
+/// ctrl + click --> makes a panel float.
+
 /// Men can hear frequencies between 20Hz and 20KHz.
 /// amplitude is expressed by DB - desi bels.
 /// when we record sound digitaly, we can't record every single moment.
@@ -10,3 +17,11 @@ some audio engineers set 96000Hz sample rate for incredibly high quality. (and i
 /// more bit depth allows us to record more amplitude in our sounds. (and also makes larger file.)
 /// it's recommended to set bit depth highest bit depth. we can low it if we want, but we keep 
 high bit depth sound as our master work.
+
+/// Plus and Minus key --> Zoom horizontally.
+/// Scrolling mouse on sides, zooms also.
+/// Shift + / --> zooms a single track in multitrack editor.
+/// S is solo, we can hear only solo track.
+/// alt + click ..> returns circle volume to zero.
+/// holding alt when adding multiple tracks to multitrack editor, allows us to 
+add each sound to a single track.
