@@ -25,3 +25,17 @@ high bit depth sound as our master work.
 /// alt + click ..> returns circle volume to zero.
 /// holding alt when adding multiple tracks to multitrack editor, allows us to 
 add each sound to a single track.
+
+/// Ctrl + K: cuts from where playhead is.
+/// Slip tool: Y
+/// Time selection tool: T
+/// I and O: selects a range.
+/// Cross Fading is a good thing.
+/// + Zooms.
+/// right click on fade and move between linear and cosine
+
+/// Set the gain for adjusting loudness from properties menu.
+/// edit > Match clip loudness
+
+/// holding ctrl --> moving level line.
+/// right click on level line --> spline curve.
