@@ -1,0 +1,55 @@
+Right click, enter and space --> Redos previous command.
+Holding right click --> Rotates.
+Shift + Right click --> Pan
+Ctrl + Right click --> zoom
+Alt + Right click --> zoom
+Ctrl + Alt + Right Click --> rotates camera, changes only target.
+--- right click on 4 viewports to turn back default viewports.
+--- Ctrl + Alt + First letter of viewport type:
+S: Shaded, W: wireframe and so on..
+
+--- Gumball is a good thing..
+-1 : Mirror
+Ctrl + Shift --> Selects a part of model.
+--- it differs, direction of selection..
+
+------07.Curves---------
+little triangle aside every icon --> Shows other options.
+Right click and left click.. matters!
+
+dividing : under points.
+
++++ polyline by right click and left click differs. one of them makes one line and other makes multiple lines. 
++++ holding ctrl when adding point: we can add z axis to our point. if we've activated planar, then next point will 
+be on the same z factor. otherwise it returnes on z=0 plane.
+
+clicking tab: locks direction of line.
+clicking tab 2 times: add next point on a circle.
+
++++ @1,1,-1: second point relative to first one.
+
+alt --> disables Osnap for a moment.
+Shift --> Ortho
+
++++ polyline has many options.
++++ interpolate: it's like photoshop
+
++++ Sketch 
+
++++ Circle around curve!
+
+------------------------17-------------------------------
+
+Drag and drop plan as a picture
+we work cheshmi ://
+use offset command.
+
+we can acsess our command by right clicking on command bar.
+use extend or fillet (with zero radius) to create our plan corners.
+3 point rectangle.
+
+ctrl + alt + h --> unhides all.
+
+curve boolean.
+
+to boundry and direction choice. 
