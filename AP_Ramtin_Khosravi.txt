@@ -1,0 +1,18 @@
+<<<<<<<1>>>>>>>
+
+Speed and flexibility are two inconsistent things. ( not everywhere! they can work together sometimes.)
+
+<<<<<<<2>>>>>>>
+
+--> using namespace std;
+--> return 0 has meaning.. it's related to command line arguments. i guess 0 means that program runs correctly and without any
+problem, and 2 means error. 1 --> warning.
+--> int main(...) is function signature.
+--> in unix based systems (mac?) compiler creates a.out output file. if we want to save it with other name, we can use -o .
+--> cout means console output.
+--> cin is like river stream.
+--> cin acts like scanf. if we type ramtin khosravi, it says hello ramtin and ignores khosravi.
+--> white space: space, tab, end of line.
+--> cin >> name >> age
+--> endl equals "\n"
+--> if you didn't write return 0, it returns 0 by default.
